@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "395145130521",
+    "project_id": "kwikm-1900e",
+    "storage_bucket": "kwikm-1900e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395145130521:android:c05145766d9a34c066f088",
+        "android_client_info": {
+          "package_name": "com.kwikm.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5x61xYZBrP6wjVYwC-nmZMH3WvRB13Ww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
